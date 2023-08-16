@@ -1,4 +1,6 @@
-
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ahmed+Eldokmak..;Nice+to+meet+you!&center=true&size=30">
@@ -11,6 +13,8 @@
 </h5>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 # 🏄‍♂️ About me
 
 **`Mahcine Learning Engineer`**
@@ -20,10 +24,9 @@
 - [1-2 years] experience in implementing machine learning and NLP algorithms, [2-3 years] experience in using python. 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
 
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -40,15 +43,18 @@
 
 ### 🧰 Soft skilss
 - Communication, problem solving, Research, Teamwork, Time management, Creativity. 
-#
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 📊 Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElDokmak&show_icons=true&theme=gruvbox)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ElDokmak&show_icons=true&locale=en&theme=tokyonight" alt="ElDokmak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElDokmak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ElDokmak" /></p>
 
-# 
 
-   
+<!--- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElDokmak&show_icons=true&theme=tokyonight) -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <details>
  <summary><h3>👨‍💻 Ahmed's Journey</h3></summary>
