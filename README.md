@@ -55,6 +55,15 @@
 <!--- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElDokmak&show_icons=true&theme=tokyonight) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!---
+<strong>Top Repositories</strong>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElDokmak&repo=Bloom-Finetuning-LoRA&theme=tokyonight)](https://github.com/ElDokmak/Bloom-Finetuning-LoRA)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElDokmak&repo=Next_word_prediction&theme=tokyonight)](https://github.com/ElDokmak/Next_word_prediction)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElDokmak&repo=Transformers-From-Scratch&theme=tokyonight)](https://github.com/ElDokmak/Transformers-From-Scratch)
 
 <details>
  <summary><h3>👨‍💻 Ahmed's Journey</h3></summary>
+-->
