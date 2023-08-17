@@ -45,12 +45,12 @@
 - Communication, problem solving, Research, Teamwork, Time management, Creativity. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<!---
 ### 📊 Stats
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ElDokmak&show_icons=true&locale=en&theme=tokyonight" alt="ElDokmak" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElDokmak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ElDokmak" /></p>
-
+-->
 
 <!--- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElDokmak&show_icons=true&theme=tokyonight) -->
 
