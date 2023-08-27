@@ -17,7 +17,7 @@
 
 # 🏄‍♂️ About me
 
-**`Machine Learning Engineer`**
+**`Machine Learning/NLP Engineer`**
 
 - I'm a fresh graduate ECE engineer with experience in Machine learning and Deep learning including regression, classification, neural networks, Computer vision, Natural Language Processing(NLP), Generative Ai, etc.
 - With strong background in DNN, CNN, RNN (LSTM, GRU) and an acceptable knowledge about transformers.
