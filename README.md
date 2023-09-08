@@ -30,13 +30,14 @@
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" />
 <img align="left" alt="Keras" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img align="left" alt="Pytorch" width="40px" style="padding-right:10px;" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Transformers" width="40px" style="padding-right:10px;" src="https://editor.analyticsvidhya.com/uploads/6350167a2c0590affeba7880ebeb46a115d863972d8ba.png" />
-<img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
+<img align="left" alt="LangChain" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
 <br />
 
 
