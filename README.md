@@ -19,8 +19,8 @@
 
 **`Machine Learning/NLP Engineer`**
 
-- I'm a fresh graduate ECE engineer with experience in Machine learning and Deep learning including regression, classification, neural networks, Computer vision, Natural Language Processing(NLP), Generative Ai, etc.
-- With strong background in DNN, CNN, RNN (LSTM, GRU) and an acceptable knowledge about transformers.
+- I'm a fresh graduate ECE engineer with experience in Machine learning and Deep learning specifically Natural Language Processing(NLP), Generative Ai, etc.
+- Strong background in DNN, CNN, RNN (LSTM, GRU), acceptable knowledge about transformers and an acceptable experience with LLMs and building apps using langchain.
 - [1-2 years] experience in implementing machine learning and NLP algorithms, [2-3 years] experience in using python. 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
 
