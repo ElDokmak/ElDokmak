@@ -22,10 +22,10 @@
 
 **`Machine Learning/NLP Engineer`**
 
-- I'm a fresh graduate ECE engineer with experience in Machine learning and Deep learning specifically Natural Language Processing(NLP), Generative Ai, etc.
-- Strong background in DNN, CNN, RNN (LSTM, GRU), acceptable knowledge about transformers and an acceptable experience with LLMs and building apps using langchain.
-- [1-2 years] experience in implementing machine learning and NLP algorithms, [2-3 years] experience in using python. 
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
+- Junior Machine Learning/NLP Engineer with pasion for developing Machine Learning and NLP models to solve real-world problems.
+- Expertise in Python, TensorFlow,  PyTorch, and Hugging Face, Strong understanding of natural language processing techniques
+- Experienced in developing, training, and deploying large language models (LLMs) to solve real-world problems. Proven ability to apply LLMs to improve existing processes, develop new products and services, and solve complex problems. Strong teamwork and collaboration skills.
+- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
