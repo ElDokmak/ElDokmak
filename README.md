@@ -12,20 +12,18 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ahmed-eldokmak-7350a81b2/" title="LinkedIn Profile"><img width="30" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/a7medeldokmak" title="HackerRank Profile"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"> HackerRank</a></code>
 </h5>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 # 🏄‍♂️ About me
 
 **`Machine Learning/NLP Engineer`**
 
-- Junior Machine Learning/NLP Engineer with pasion for developing Machine Learning and NLP models to solve real-world problems.
-- Expertise in Python, TensorFlow,  PyTorch, and Hugging Face, Strong understanding of natural language processing techniques
-- Experienced in developing, training, and deploying large language models (LLMs) to solve real-world problems. Proven ability to apply LLMs to improve existing processes, develop new products and services, and solve complex problems. Strong teamwork and collaboration skills.
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
+- Experienced Junior Machine Learning/NLP Engineer dedicated to leveraging advanced techniques and technologies to address real-world challenges.
+- Proficient in Python, TensorFlow, PyTorch, and Hugging Face, with a robust grasp of natural language processing methodologies. 
+- Demonstrated expertise in the development, training, and deployment of Large Language Models (LLMs) to tackle practical issues. A track record of enhancing existing processes, creating innovative products and services, and resolving intricate problems through the application of LLMs. Exceptional teamwork and collaboration aptitude
+- I’m currently open for a new job opportunity.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -45,8 +43,16 @@
 
 
 
-### 🧰 Soft skilss
-- Communication, problem solving, Research, Teamwork, Time management, Creativity. 
+### Soft skills:
+* **Team Collaboration:** Recognized for the ability to thrive in collaborative team environments, fostering a positive and productive group dynamic.
+* **Problem-Solving:** Proven track record in identifying and resolving complex issues, employing analytical and creative problem-solving approaches.
+* **Self-Learning:** Committed to ongoing self-improvement and staying abreast of emerging technologies and industry trends.
+
+### Technical skills:
+* **Programming Languages and Frameworks:** Proficient in Python, and experienced in leveraging the capabilities of TensorFlow, PyTorch, and Hugging Face Transformers.
+* **Machine Learning and Deep Learning:** Experienced in Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformer models.
+* **Natural Language Processing (NLP):** Skilled in various NLP domains, including Tokenization, Named Entity Recognition (NER), Sentiment Analysis, Text Generation, and Sequence-to-Sequence (Seq2Seq) models.
+* **LLMs:** Skilled in fine-tuning pre-trained models, proficient in deploying LLMs for real-world applications, Keen interest in staying updated with the latest advancements in the field of LLMs.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
