@@ -23,7 +23,7 @@
 - Experienced Junior Machine Learning/NLP Engineer dedicated to leveraging advanced techniques and technologies to address real-world challenges.
 - Proficient in Python, TensorFlow, PyTorch, and Hugging Face, with a robust grasp of natural language processing methodologies. 
 - Demonstrated expertise in the development, training, and deployment of Large Language Models (LLMs) to tackle practical issues. A track record of enhancing existing processes, creating innovative products and services, and resolving intricate problems through the application of LLMs. Exceptional teamwork and collaboration aptitude
-- I’m currently open for a new job opportunity.
+- I’m currently open for a new job opportunity. [My Resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
