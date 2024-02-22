@@ -18,17 +18,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 # 🏄‍♂️ About me
 
-**`Machine Learning/NLP Engineer`**
 
-- Experienced Junior Machine Learning/NLP Engineer dedicated to leveraging advanced techniques and technologies to address real-world challenges.
-- Proficient in Python, TensorFlow, PyTorch, and Hugging Face, with a robust grasp of natural language processing methodologies. 
-- Demonstrated expertise in the development, training, and deployment of Large Language Models (LLMs) to tackle practical issues. A track record of enhancing existing processes, creating innovative products and services, and resolving intricate problems through the application of LLMs. Exceptional teamwork and collaboration aptitude
-- I’m currently open for a new job opportunity. [My Resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
+Enthusiastic Junior AI/NLP Engineer with a passion for leveraging cutting-edge technologies to solve real-world
+problems. Deep understanding of NLP techniques. Proven experience in designing and deploying Large
+Language Models (LLMs), with a keen interest in contributing to innovative projects. Strong team player with a
+keen ability to collaborate effectively, I’m currently open for a new job opportunity. [My Resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+<!---
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
@@ -40,9 +40,17 @@
 <img align="left" alt="Transformers" width="40px" style="padding-right:10px;" src="https://editor.analyticsvidhya.com/uploads/6350167a2c0590affeba7880ebeb46a115d863972d8ba.png" />
 <img align="left" alt="LangChain" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
 <br />
+-->
 
-
-
+- Programming: Python.
+- Frameworks: TensorFlow, PyTorch, Hugging Face Transformers, Langchain.
+- DeepLearning: Neural Networks, CNNs, RNNs, Transformer models.
+- NLP: Tokenization, NER, Sentiment Analysis, Seq2Seq, etc…
+- Large Language Models (LLMs): Developing, fine-tuning, and deploying.
+- Tools: Git, GitHub.
+- Operating Systems: Windows, Linux.
+- Soft Skills: Team Collaboration, Problem-Solving and Self-Learning.
+<!---
 ### Soft skills:
 * **Team Collaboration:** Recognized for the ability to thrive in collaborative team environments, fostering a positive and productive group dynamic.
 * **Problem-Solving:** Proven track record in identifying and resolving complex issues, employing analytical and creative problem-solving approaches.
@@ -53,7 +61,7 @@
 * **Machine Learning and Deep Learning:** Experienced in Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformer models.
 * **Natural Language Processing (NLP):** Skilled in various NLP domains, including Tokenization, Named Entity Recognition (NER), Sentiment Analysis, Text Generation, and Sequence-to-Sequence (Seq2Seq) models.
 * **LLMs:** Skilled in fine-tuning pre-trained models, proficient in deploying LLMs for real-world applications, Keen interest in staying updated with the latest advancements in the field of LLMs.
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!---
