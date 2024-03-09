@@ -19,10 +19,10 @@
 # 🏄‍♂️ About me
 
 
-Enthusiastic Junior AI/NLP Engineer with a passion for leveraging cutting-edge technologies to solve real-world
-problems. Deep understanding of NLP techniques. Proven experience in designing and deploying Large
-Language Models (LLMs), with a keen interest in contributing to innovative projects. Strong team player with a
-keen ability to collaborate effectively, I’m currently open for a new job opportunity. [My Resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
+Junior GenAI/NLP Engineer with a passion for leveraging cutting-edge technologies to solve real-world
+problems. Deep understanding of NLP techniques. Proven experience in fine-tuning and deploying Large
+Language Models (LLMs), Experienced in implementing RAG techniques, with a keen interest in contributing to
+innovative projects. Strong team player with akeen ability to collaborate effectively, I’m currently open for a new job opportunity. [My Resume](https://drive.google.com/drive/folders/1TKNbrLDFsr9a1HZhZMiV3FsdoTJgcZvz?usp=sharing)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -42,13 +42,12 @@ keen ability to collaborate effectively, I’m currently open for a new job oppo
 <br />
 -->
 
-- Programming: Python.
-- Frameworks: TensorFlow, PyTorch, Hugging Face Transformers, Langchain.
-- DeepLearning: Neural Networks, CNNs, RNNs, Transformer models.
-- NLP: Tokenization, NER, Sentiment Analysis, Seq2Seq, etc…
-- Large Language Models (LLMs): Developing, fine-tuning, and deploying.
+- Proficient in Python, TensorFlow, and PyTorch for NLP modeling.
+- Knowledge of NLP algorithms and techniques such as tokenization, NER, sentiment analysis, etc.
+- Proficient in fine-tuning and deploying LLMs.
+- Familiarity with advanced techniques such as Retrieval-Augmented Generation (RAG).
+- Experience with LangChain and Llama-index.
 - Tools: Git, GitHub.
-- Operating Systems: Windows, Linux.
 - Soft Skills: Team Collaboration, Problem-Solving and Self-Learning.
 <!---
 ### Soft skills:
