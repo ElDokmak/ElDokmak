@@ -8,3 +8,4 @@
 #### Socials
 - 🖇️ LinkedIn [Ahmed Eldokmak](https://www.linkedin.com/in/ahmed-eldokmak-7350a81b2/)
 - 🎮 Instagram [ahmed.eldokmak](https://www.instagram.com/ahmed.eldokmak/)
+- 📧 Mail [Ahmed Eldokmak](a7medeldokmak@gmail.com)
